@@ -1,4 +1,4 @@
-📺央视频道,#genre#
+📺央视频道1,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
