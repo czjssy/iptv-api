@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-05-10 14:43:32,url
+2025-05-10 18:28:30,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 📺央视频道2,#genre#
 
 📺央视频道3,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
