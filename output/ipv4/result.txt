@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-16 06:19:07,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2025-05-16 18:22:25,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 📺央视频道2,#genre#
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -14,21 +14,21 @@ CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV2,http://59.188.94.126:35455/bptv/10000100000000050000000003407051.m3u8
 CCTV3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=945e8b&tk=6949f8ce7202
 CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
-CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=981ddc&tk=6949f8ce7202
+CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4,http://wouu.net:9977/udp/239.93.1.105:5140
-CCTV5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=78152d&tk=6949f8ce7202
 CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=78152d&tk=6949f8ce7202
 CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111
 CCTV5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1c2a28&tk=6949f8ce7202
 CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111
 CCTV5+,http://59.188.94.126:35455/bptv/10000100000000050000000003248330.m3u8
 CCTV6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV7,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
+CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV8,http://119.32.12.17:2901/udp/224.1.100.86:11111
 CCTV8,http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111
 CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
@@ -37,20 +37,17 @@ CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111
 CCTV11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
-CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.70:11111
-CCTV15,http://119.32.12.17:2901/udp/224.1.100.42:11111
+CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
+CCTV15,http://119.32.12.17:2901/udp/224.1.100.42:11111
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://119.32.12.17:2901/udp/224.1.100.52:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 黑龙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
@@ -60,27 +57,26 @@ CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://wouu.net:9977/udp/239.93.0.81:5140
-广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111
 广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.110:11111
+广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111
 贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
 海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.15:11111
 河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.19:11111
-河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
 江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.46:11111
 江西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.54:11111
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+内蒙古卫视,http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://wouu.net:9977/udp/239.93.0.168:5140
-四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.72:11111
+四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
-三沙卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111
 天津卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.62:11111
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=1
