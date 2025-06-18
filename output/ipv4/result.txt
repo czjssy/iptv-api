@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-06-18 18:20:17,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-19 06:18:31,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道3,#genre#
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV4,http://182.150.23.74:808/hls/4/index.m3u8
 CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111
@@ -20,10 +21,13 @@ CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
+安徽卫视,http://121.17.146.178:50003/hls/46/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.110:11111
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://101.66.199.198:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+天津卫视,http://121.17.146.178:50003/hls/40/index.m3u8
