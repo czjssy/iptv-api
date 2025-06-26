@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-26 06:19:26,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-26 18:22:08,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道3,#genre#
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
@@ -18,38 +18,16 @@ CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://58.19.38.162:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://fn.tmde.top:35455/nptv/guangdong.m3u8
+湖南卫视,http://39.164.180.36:19901/tsfile/live/0128_2.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://fn.tmde.top:35455/nptv/beijing.m3u8
-湖北卫视,http://fn.tmde.top:35455/nptv/hubei.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
-安徽卫视,http://fn.tmde.top:35455/nptv/anhui.m3u8
-东方卫视,http://fn.tmde.top:35455/nptv/dongfang.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://fn.tmde.top:35455/nptv/dongnan.m3u8
-甘肃卫视,http://fn.tmde.top:35455/nptv/gansu.m3u8
-贵州卫视,http://fn.tmde.top:35455/nptv/guizhou.m3u8
+广西卫视,http://101.66.195.152:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://fxgm.fxjf.work:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://fn.tmde.top:35455/nptv/hainan.m3u8
-河北卫视,http://1.24.190.98:10080/hls/78/index.m3u8
-河北卫视,http://110.52.99.109:9901/tsfile/live/1057_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://fn.tmde.top:35455/nptv/henan.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://110.52.99.109:9901/tsfile/live/1066_1.m3u8
-江西卫视,http://fn.tmde.top:35455/nptv/jiangxi.m3u8
-辽宁卫视,http://fn.tmde.top:35455/nptv/liaoning.m3u8
-内蒙古卫视,http://fn.tmde.top:35455/nptv/neimenggu.m3u8
-宁夏卫视,http://fn.tmde.top:35455/nptv/ningxia.m3u8
-青海卫视,http://fn.tmde.top:35455/nptv/qinghai.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://fn.tmde.top:35455/nptv/shandong.m3u8
-陕西卫视,http://fn.tmde.top:35455/nptv/shanxiws.m3u8
-四川卫视,http://110.52.99.109:9901/tsfile/live/1054_1.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://fn.tmde.top:35455/nptv/shenzheng.m3u8
-天津卫视,http://110.52.99.109:9901/tsfile/live/1051_1.m3u8
-新疆卫视,http://fn.tmde.top:35455/nptv/xinjiang.m3u8
 云南卫视,http://101.66.195.152:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
