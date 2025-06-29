@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-29 06:17:14,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+2025-06-29 18:21:22,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 
 📺央视频道3,#genre#
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
@@ -17,7 +17,9 @@ CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
+安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://123.163.114.72:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
