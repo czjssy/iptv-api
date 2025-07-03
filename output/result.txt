@@ -1,20 +1,16 @@
 🕘️更新时间,#genre#
-2025-07-03 06:18:38,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-03 18:21:16,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道3,#genre#
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111
-CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111
 CCTV7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
