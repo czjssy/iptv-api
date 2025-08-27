@@ -1,21 +1,29 @@
 🕘️更新时间,#genre#
-2025-08-27 18:18:39,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-28 06:17:43,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道3,#genre#
+CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.181.232.202:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV5,http://111.14.181.15:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
+CCTV11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://110.181.232.202:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://39.150.96.141:65535/tsfile/live/0122_1.m3u8
-黑龙江卫视,http://39.150.96.141:65535/tsfile/live/0143_1.m3u8
+湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+青海卫视,http://36.105.100.208:35455/itv/5000000006000040015.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
