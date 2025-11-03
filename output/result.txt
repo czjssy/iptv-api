@@ -1,5 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-03 18:21:13,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-11-04 06:18:17,http://sh.lnott.top:880/dx05.m3u8
+
+📺央视频道3,#genre#
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
