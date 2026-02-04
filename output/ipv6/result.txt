@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-04 06:28:17,url
+2026-02-04 18:36:40,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 
 📺央视频道3,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
