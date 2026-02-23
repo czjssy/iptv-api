@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-23 18:49:18,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-24 06:39:18,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道3,#genre#
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -17,13 +17,12 @@ CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-青海卫视,http://223.145.224.76:8000/udp/239.76.254.132:9000
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
