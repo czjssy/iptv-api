@@ -1,7 +1,8 @@
-Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 19 ms, Speed: 5.32 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 19 ms, Speed: 5.26 M/s, Resolution: None
-Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Level3, Date: None, Delay: 184 ms, Speed: 8.29 M/s, Resolution: 1920x1080
-Name: 东南卫视, URL: http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.33 M/s, Resolution: None
-Name: 河南卫视, URL: http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.21 M/s, Resolution: None
-Name: 吉林卫视, URL: http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 22 ms, Speed: 4.83 M/s, Resolution: None
-Name: 山东卫视, URL: http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.24 M/s, Resolution: None
+Name: CCTV-13, URL: http://cjcrcb.top:65500/udp/238.125.0.189:5140, IPv_Type: ipv4, Location: 中国-新疆-昌吉回族自治州, ISP: 电信, Date: None, Delay: 644 ms, Speed: 0.65 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 11 ms, Speed: 10.94 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 7 ms, Speed: 16.63 M/s, Resolution: None
+Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Level3, Date: None, Delay: 151 ms, Speed: 14.49 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 9 ms, Speed: 12.55 M/s, Resolution: None
+Name: 河南卫视, URL: http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 9 ms, Speed: 13.24 M/s, Resolution: None
+Name: 吉林卫视, URL: http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 9 ms, Speed: 12.28 M/s, Resolution: None
+Name: 山东卫视, URL: http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 9 ms, Speed: 14.63 M/s, Resolution: None
