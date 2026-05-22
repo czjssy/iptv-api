@@ -1,8 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-22 07:02:20,http://101.66.198.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-05-22 20:16:56,http://101.66.198.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道3,#genre#
-CCTV1,http://101.66.198.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://101.66.198.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://101.66.198.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://101.66.198.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
