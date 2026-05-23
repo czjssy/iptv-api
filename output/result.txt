@@ -1,5 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-23 06:57:03,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-05-23 19:09:56,http://221.13.235.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+
+📺央视频道3,#genre#
+CCTV10,http://221.13.235.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
