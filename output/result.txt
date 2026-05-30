@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-30 19:18:30,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-05-31 06:56:15,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
