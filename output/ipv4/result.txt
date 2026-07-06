@@ -1,23 +1,22 @@
 🕘️更新时间,#genre#
-2026-07-06 21:45:00,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-07-07 07:06:02,http://101.66.194.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道3,#genre#
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV1,http://101.66.194.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://101.66.194.151:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://101.66.194.186:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://101.66.194.186:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://101.66.194.151:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://101.66.194.151:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://101.66.194.186:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://101.66.194.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
+广东卫视,http://101.66.194.186:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://101.66.194.186:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://101.66.194.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广西卫视,http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.194.186:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-辽宁卫视,http://123.163.114.168:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://123.163.114.168:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://101.66.194.186:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://101.66.194.151:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://123.163.114.168:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://101.66.194.151:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://101.66.194.186:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
