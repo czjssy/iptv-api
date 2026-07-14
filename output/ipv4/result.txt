@@ -1,14 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-14 19:25:12,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
-
-📺央视频道3,#genre#
-CCTV11,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://222.223.41.27:8888/hls/12/index.m3u8
+2026-07-15 06:55:19,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://60.10.139.113:8801/hls/31/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
